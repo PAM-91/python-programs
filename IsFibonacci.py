@@ -12,5 +12,6 @@ def isfinonacci(x):
         elif b == x:
             print("%d is fibonacci number" % x)
             break
+        
 isfinonacci(22)
         
